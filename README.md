@@ -9,7 +9,7 @@ Envolution is a platform that connects environmental organizations with voluntee
 
 ## Getting started
 
-This is the back-end repository. The front-end can be found at [GitHub](https://github.com/jonas-wedemeyer/envolution-client)
+This is the back-end repository. The front-end can be found at [GitHub](https://github.com/Coralie19/envolution-client)
 
 ### Installation
 
@@ -20,7 +20,7 @@ To use the Envolution server consider the following:
 1. Begin by forking this repository, and cloning it to your computer with the following command: 
 
  ```bash
-   git clone https://github.com/jonas-wedemeyer/envolution-server.git
+   git clone https://github.com/Coralie19/envolution-server.git
  ```
 
 2. For macOS users, use Homebrew to install PostgreSQL. Install and start PostgreSQL on your machine by entering the two commands below in your terminal:
